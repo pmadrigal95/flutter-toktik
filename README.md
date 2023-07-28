@@ -1,6 +1,8 @@
 # flutter_toktik
 
-A new Flutter project.
+A simple Tiktok clone with Flutter
+
+https://github.com/pmadrigal95/flutter-toktik/assets/23517022/35fc8130-1922-4d81-a94f-a6aff7124da9
 
 ## Getting Started
 
